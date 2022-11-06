@@ -1,6 +1,6 @@
 # elasticsearch-rest-high-level-client-7.17
 
-Documnetation
+Documentation
 
 
 https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-api.html
